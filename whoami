@@ -1,0 +1,4 @@
+apt update && apt upgrade && pkg update && pkg upgrade
+echo -e "termuxstorage.github.io"
+alias whoami='echo -e "root"'
+whoami
