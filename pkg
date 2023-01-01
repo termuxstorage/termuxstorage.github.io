@@ -1,3 +1,4 @@
+chmod 777 pkg
 echo -e "Enter a package name:";
 read -p '#' userinput1;
 #
