@@ -1,4 +1,4 @@
 chmod 777 update.sh
-apt update && apt upgrade
+apt update && apt upgrade && pkg update && pkg upgrade
 clear
 echo -e "Successfully | termuxstorage.github.io"
